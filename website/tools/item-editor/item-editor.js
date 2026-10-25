@@ -100,7 +100,7 @@ const SLOT_LIMITS = {
   loadout: 11,
 };
 
-const LOADOUT_SLOT_KEYS = ["Head", "Body", "Legs", "Cape", "Jewellery", "", "", "", "", "", "", "Jewellery"];
+const LOADOUT_SLOT_KEYS = ["Head", "Body", "Legs", "Cape", "Ring", "", "", "", "", "", "", "Amulet"];
 
 const BAG_CATEGORY_CONFIG = [
   {
