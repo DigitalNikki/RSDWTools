@@ -697,7 +697,7 @@ function getTabSlotRange(tabKey) {
   if (typeof start !== "number") {
     return null;
   }
-  return { start, end: start + 23 };
+  return { start, end: start + 31 };
 }
 
 function findNextAvailableSlot(tabKey) {
